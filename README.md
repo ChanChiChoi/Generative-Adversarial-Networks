@@ -2,8 +2,7 @@
 
 after read the GAN papers, I find the excellent code in github, then decouple them and extract the kernel part（or write by myself） into ipython notebook for easy understanding。   
 
-after you put the mnist data into the specified path, you can run the notebook。 
-
+The below ipynbs use mnist for training and inferencing     
 vanllia_GAN:   
 <div align=center><img src="result/vanilla_gan_5700.jpg"  align=center /></div>
 <div align=center>setp=5700</div>
