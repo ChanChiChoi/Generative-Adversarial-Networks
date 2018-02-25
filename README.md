@@ -18,5 +18,5 @@ EBGAN:
 <div align=center>setp=5700</div>
 LSGAN:
 <div align=center><img src="result/LSGAN_oneclass_5700.jpg"  align=center /> <img src="result/multi_5700.jpg"  align=center /></div>
-<div align=center>setp=5700</div>
+<div align=center>setp=5700.left:without conditional ; right:with conditional</div>
 
