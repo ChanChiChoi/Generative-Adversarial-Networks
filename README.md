@@ -16,4 +16,7 @@ DCGAN:
 EBGAN:
 <div align=center><img src="result/ebGAN_5700.jpg"  align=center /></div>
 <div align=center>setp=5700</div>
+LSGAN:
+<div align=center><img src="result/LSGAN_oneclass_5700.jpg"  align=center /> <img src="result/multi_5700.jpg"  align=center /></div>
+<div align=center>setp=5700</div>
 
