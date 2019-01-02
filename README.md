@@ -19,5 +19,5 @@ LSGAN:
 <div align=center><img src="result/LSGAN_oneclass_5700.jpg"  align=center /> <img src="result/multi_5700.jpg"  align=center /></div>
 <div align=center>setp=5700.left:without conditional ; right:with conditional</div>  
 AAE Label information incorporating:   
-<div align=center><img src="result/AAE_LabelInfo_5700.gif "  align=center height='400px' /> <img src="result/ AAE_LabelInfo_scatter_5700.gif"  align=center height='400px' /></div>
+<div align=center><img src="result/AAE_LabelInfo_5700.gif "  align=center height='300px' /> <img src="result/AAE_LabelInfo_scatter_5700.gif"  align=center height='300px' /></div>
 <div align=center>setp=5700.left:Learned MNIST manifold ; right:Distribution of labeled data</div>  
